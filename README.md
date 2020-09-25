@@ -1,15 +1,13 @@
-# Formulario HTML, CSS, JS y Servlets 📌
+# Formulario HTML, CSS, JS y Servlet 📌
 
-### Practicando formularios dinámicos, con campos requeridos, enviando por metodo POST al servlets y mostrados en tabla los resultados.
-🚀
-🚀
+### Practicando formularios dinámicos, con campos requeridos, enviando por metodo POST resultados al servlet y mostrados en tabla.
 
-### agregandole a la practica eventos con javascript
+### agregandole a la practica eventos con javascript 🚀
 
 ##Hecho con 🛠️
 
 * [NetBeans](https://netbeans.org/community/releases/82/) - El framework web usado
 * [Maven] - Como herramienta de software 
-* [Servlet] - Clase java hecha simulando servlets
+* [Servlet] - Clase java hecha simulando servlet
 
 
