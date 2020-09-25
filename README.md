@@ -4,7 +4,7 @@
 
 ### agregandole a la practica eventos con javascript 🚀
 
-##Hecho con 🛠️
+### Hecho con 🛠️
 
 * [NetBeans](https://netbeans.org/community/releases/82/) - El framework web usado
 * [Maven] - Como herramienta de software 
