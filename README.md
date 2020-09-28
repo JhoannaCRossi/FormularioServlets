@@ -9,5 +9,6 @@
 * [NetBeans](https://netbeans.org/community/releases/82/) - El framework web usado
 * [Maven] - Como herramienta de software 
 * [Servlet] - Clase java hecha simulando servlet
+* [Servidor] - GlassFish como servidor de aplicaciones de software libre
 
 
